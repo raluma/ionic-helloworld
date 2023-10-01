@@ -10,6 +10,8 @@
 
 # production
 /build
+android
+assets
 
 # misc
 .DS_Store
